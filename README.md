@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sobhik-sawdagar
-- 👀 I’m interested in Programming, Development of Web Apps and Android Apps, Networking, Computer Science & Tech
+- 👀 I’m interested in Programming, Development of Web and Android Apps, Networking, Computer Science & Tech
 - 🌱 I’m currently learning DSA, Fullstack Dev, Problem Solving
 - 📫 You can reach me via Email, Insta@imsobhiksawdagar, twitter
 
